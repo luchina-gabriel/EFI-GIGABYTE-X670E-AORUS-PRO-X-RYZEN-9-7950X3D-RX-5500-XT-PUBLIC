@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte X670E AORUS PRO X, AMD Ryzen 9 7950X3D, Radeon RX 5500 XT (8176 MB)
 
+![WiFi - OLCP 1 5 0 - Activated](https://github.com/user-attachments/assets/8cadaa23-f5fa-4c8e-b939-bc67ba438219)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.6.1)
